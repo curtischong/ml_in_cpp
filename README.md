@@ -14,7 +14,7 @@ The lineup:
 1) random forest (classifier)
 2) SVM
 3) logistic regression
-
+4) SARIMA (by the end of June 26 2018)
 
 putting this here so I don't lose it:
 ```g++ -std=gnu++14 random_forest_classifier.cpp; ./a.out```
