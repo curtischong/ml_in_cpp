@@ -17,4 +17,7 @@ The lineup:
 4) ARIMA (by the end of June 26 2018)
 
 putting this here so I don't lose it:
-```g++ -std=gnu++14 random_forest_classifier.cpp; ./a.out```
+`g++ -std=gnu++14 random_forest_classifier.cpp; ./a.out`
+
+I just switched to a mac so here is the updated command:
+`gcc -std=c++14 a.cpp -o a.out -lstdc++; ./a.out`
